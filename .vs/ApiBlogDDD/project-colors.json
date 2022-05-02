@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b1b781b-b3a4-4a5a-8711-46f1e0a9c0bc": {
+      "ProjectGuid": "5b1b781b-b3a4-4a5a-8711-46f1e0a9c0bc",
+      "DisplayName": "ApiBlogDDD.Infra.Data",
+      "ColorIndex": 0
+    },
+    "0737c20f-a188-4aa9-baf7-6c7327560521": {
+      "ProjectGuid": "0737c20f-a188-4aa9-baf7-6c7327560521",
+      "DisplayName": "ApiBlogDDD",
+      "ColorIndex": 1
+    },
+    "70093aa6-f31d-40f8-985b-8c1456dd097c": {
+      "ProjectGuid": "70093aa6-f31d-40f8-985b-8c1456dd097c",
+      "DisplayName": "ApiBlogDDD.Application",
+      "ColorIndex": 2
+    },
+    "112d2bed-0851-4ef0-ba65-66923429c6e1": {
+      "ProjectGuid": "112d2bed-0851-4ef0-ba65-66923429c6e1",
+      "DisplayName": "ApiBlogDDD.Domain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7a103165-0117-4b40-965d-a9aba923d4be": {
+      "ProjectGuid": "7a103165-0117-4b40-965d-a9aba923d4be",
+      "DisplayName": "ApiBlogDDD.IoC",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

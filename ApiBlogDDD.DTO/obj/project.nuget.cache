@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwb9GXMUkO5eq7Q9mM3XFgZAJTB7WGlMqr+KS8Rkt5zIqjOKwddf7Z+1sksBvmZpUM5K/tlOwUK+a7kxgeoBMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\Downloads\\ApiBlogDDD\\ApiBlogDDD\\ApiBlogDDD\\ApiBlogDDD.DTO\\ApiBlogDDD.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

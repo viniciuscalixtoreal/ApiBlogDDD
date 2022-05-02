@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiBlogDDD.Domain.Interfaces\ApiBlogDDD.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\ApiBlogDDD.DTO\ApiBlogDDD.DTO.csproj" />
+    <ProjectReference Include="..\ApiBlogDDD.Infra.Data\ApiBlogDDD.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

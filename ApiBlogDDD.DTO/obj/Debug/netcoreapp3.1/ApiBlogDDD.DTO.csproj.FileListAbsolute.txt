@@ -1,0 +1,13 @@
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\bin\Debug\netcoreapp3.1\ApiBlogDDD.DTO.deps.json
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\bin\Debug\netcoreapp3.1\ApiBlogDDD.DTO.dll
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\bin\Debug\netcoreapp3.1\ApiBlogDDD.DTO.pdb
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\bin\Debug\netcoreapp3.1\ApiBlogDDD.Domain.dll
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\bin\Debug\netcoreapp3.1\ApiBlogDDD.Domain.pdb
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.csproj.AssemblyReference.cache
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.AssemblyInfoInputs.cache
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.AssemblyInfo.cs
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.csproj.CopyComplete
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.dll
+C:\Users\vinic\Downloads\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD\ApiBlogDDD.DTO\obj\Debug\netcoreapp3.1\ApiBlogDDD.DTO.pdb
